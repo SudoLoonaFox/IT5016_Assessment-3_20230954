@@ -3,7 +3,9 @@
 ---
 ### Introduction
 The vast majority of my codes are in c so I am including those here. I have written codes in fortran and c++ and python but I don't have access to most of those codes at the moment as they are stored on a hard drive that isn't at my place. So I'm making do with the codes I do have saved here. I rarely write python code so don't have many examples of that and many of my projects aren't large enough to have proper design patterns like making code that minimises dependencies between sections and making code modular.
+[github repo](https://github.com/SudoLoonaFox/IT5016_Assessment-3_20230954)
 
+### Thoughts
 The fast inverse square root is my favourite piece of code that i have found. It is slightly complex with the math used. Writing an explanation in markdown wouldn't be pleasant (No typesetting for math in native markdown). While the line labeled evil bit hack is not considered good c code i personally like it. You could use a union to do this however this way is more interesting to me and likely works the same way as a union when translated to assembly.
 This math does actually come from a scientific paper a few years prior. It is a very good optimization and shows that keeping up to date on math and algorithms can lead to some heavy optimisation opportunities if you can spot use cases
 
